@@ -28,4 +28,4 @@ MIT
 
 # Proje görseli
 
-![ekran görüntüsü] (image.png)
+![ekran görüntüsü](image.png)
